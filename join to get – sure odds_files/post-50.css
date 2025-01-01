@@ -1,0 +1,66 @@
+.elementor-50 .elementor-element.elementor-element-3b550b2 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-50
+  .elementor-element.elementor-element-3b550b2:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-50
+  .elementor-element.elementor-element-3b550b2
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #e5e5e5;
+}
+.elementor-50 .elementor-element.elementor-element-3b550b2,
+.elementor-50 .elementor-element.elementor-element-3b550b2::before {
+  --border-transition: 0.3s;
+}
+.elementor-50 .elementor-element.elementor-element-81cc986 {
+  --iteration-count: infinite;
+  --animation-duration: 1200ms;
+}
+.elementor-50 .elementor-element.elementor-element-81cc986 .elementor-headline {
+  text-align: center;
+}
+.elementor-50 .elementor-element.elementor-element-03a23e8 .elementor-button {
+  background-color: #057999;
+}
+.elementor-50 .elementor-element.elementor-element-ad0d4fa img {
+  filter: brightness(110%) contrast(100%) saturate(100%) blur(0px)
+    hue-rotate(0deg);
+  border-style: solid;
+  border-width: 3px 3px 3px 3px;
+  border-color: #9401d9;
+  border-radius: 10px 10px 10px 10px;
+}
+.elementor-50 .elementor-element.elementor-element-b3a716f {
+  text-align: center;
+}
+.elementor-50
+  .elementor-element.elementor-element-b3a716f
+  .elementor-heading-title {
+  color: #be2525;
+}
+.elementor-50 .elementor-element.elementor-element-df7b6aa {
+  --divider-border-style: solid;
+  --divider-color: #000;
+  --divider-border-width: 1px;
+}
+.elementor-50
+  .elementor-element.elementor-element-df7b6aa
+  .elementor-divider-separator {
+  width: 100%;
+}
+.elementor-50 .elementor-element.elementor-element-df7b6aa .elementor-divider {
+  padding-block-start: 15px;
+  padding-block-end: 15px;
+}
+.elementor-50 .elementor-element.elementor-element-194600e .elementor-button {
+  background-color: #057999;
+}
+@media (max-width: 767px) {
+  .elementor-50 .elementor-element.elementor-element-ad0d4fa {
+    text-align: center;
+  }
+}
